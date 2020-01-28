@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+    height: 2000px;
+
+}
+
+
+h1{
+    color: red;
+    background-color: yellow;
+    
+}
+p{
+
+    text-align: center;
+    word-spacing: 10px;
+    font-size: 40px;
+    background-color: yellow;
+    margin: 30px;
+    position: fixed;
+
+}
